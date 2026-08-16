@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "app.wayntracker",
-      "sha256_cert_fingerprints": [
-        "28:DA:C0:CF:F8:0F:B4:C5:D5:39:D5:7A:46:F7:98:30:97:31:8A:90:BF:E1:FB:2A:36:07:66:11:A0:FD:08:9C"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.wayntracker",
+        "sha256_cert_fingerprints": ["99:38:CD:33:A8:C0:AF:24:91:2E:80:65:DF:CB:3F:44:EA:26:4B:81:13:DA:E2:ED:A1:0E:89:A4:6B:E2:84:B8"]
+      }
+    }]
