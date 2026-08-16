@@ -1,0 +1,11 @@
+{
+  "name": "Wayne Tracker",
+  "short_name": "Wayne Tracker",
+  "description": "Wayne Tracker workout tracking app",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
